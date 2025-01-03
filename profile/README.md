@@ -1,8 +1,8 @@
 # My FreeCAD Project Library
-This is my public library of FreeCAD prjects.
+This is my public library of FreeCAD projects.
 It contains a setup script (powershell) that I use to setup my default project structure, remote repository and tracking. 
 
-Feel free to contact me If you have any inquireies - I love to talk tech.
+Feel free to contact me If you have any inquiries - I love to talk tech.
 
 <!--
 
